@@ -1,2 +1,6 @@
 git init (to initialise)
 git status
+git add * or (filename) // to add file
+git commit -m "type message"
+git log
+tester
